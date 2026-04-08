@@ -1,0 +1,11 @@
+
+
+{
+  "name": "csv-search-indexing",
+  "version": "1.0.0",
+  "main": "benchmark.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node benchmark.js"
+  }
+}
